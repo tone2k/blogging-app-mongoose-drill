@@ -22,6 +22,18 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-http": "^3.0.0",
-    "mocha": "^4.0.1"
-  }
+    "mocha": "^4.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tone2k/blogging-app-mongoose-drill.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/tone2k/blogging-app-mongoose-drill/issues"
+  },
+  "homepage": "https://github.com/tone2k/blogging-app-mongoose-drill#readme"
 }
